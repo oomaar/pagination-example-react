@@ -1,3 +1,5 @@
+This is a basic infinte pagination example, using React Functional Component not Legacy Class
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
